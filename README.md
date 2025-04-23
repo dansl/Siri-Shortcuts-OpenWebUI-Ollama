@@ -3,7 +3,7 @@ Siri Shortcuts you can use to communicate with a local AI via apps like Ollama a
 
 ### Open WebUI API Siri Shortcut
 
-[Download Here](https://www.icloud.com/shortcuts/365d186065d54f1c9a4ce5c504cdd1c6)
+[Download Here](https://www.icloud.com/shortcuts/68dca66227644718abb5a755f059a637)
 
 You will need the *Open WebUI URL*, the *LLM Model ID*, and the user *API key*. The shortcut will prompt you for that information upon installation.
 
